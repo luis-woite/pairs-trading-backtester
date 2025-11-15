@@ -1,9 +1,4 @@
 
----
-
-### B. `pairs-trading-backtester/README.md`
-
-```markdown
 # Pairs Trading Backtester (Python)
 
 Simple mean-reversion pairs trading engine built around regression, spreads
